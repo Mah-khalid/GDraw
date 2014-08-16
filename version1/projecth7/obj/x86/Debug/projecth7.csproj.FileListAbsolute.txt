@@ -1,0 +1,50 @@
+C:\Users\hp\Desktop\control\projecth7\projecth7\bin\Debug\projecth7.exe
+C:\Users\hp\Desktop\control\projecth7\projecth7\bin\Debug\projecth7.pdb
+C:\Users\hp\Desktop\control\projecth7\projecth7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\control\projecth7\projecth7\obj\x86\Debug\projecth7.Form1.resources
+C:\Users\hp\Desktop\control\projecth7\projecth7\obj\x86\Debug\projecth7.Properties.Resources.resources
+C:\Users\hp\Desktop\control\projecth7\projecth7\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hp\Desktop\control\projecth7\projecth7\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hp\Desktop\control\projecth7\projecth7\obj\x86\Debug\projecth7.exe
+C:\Users\hp\Desktop\control\projecth7\projecth7\obj\x86\Debug\projecth7.pdb
+D:\projecth7\projecth7\obj\x86\Debug\projecth7.exe
+D:\projecth7\projecth7\obj\x86\Debug\projecth7.pdb
+D:\projecth7\projecth7\bin\Debug\projecth7.exe
+D:\projecth7\projecth7\bin\Debug\projecth7.pdb
+D:\projecth7\projecth7\obj\x86\Debug\projecth7.csprojResolveAssemblyReference.cache
+D:\projecth7\projecth7\obj\x86\Debug\projecth7.Form1.resources
+D:\projecth7\projecth7\obj\x86\Debug\projecth7.Properties.Resources.resources
+D:\projecth7\projecth7\obj\x86\Debug\projecth7.csproj.GenerateResource.Cache
+C:\Users\mostafa\Desktop\projecth7\projecth7\obj\x86\Debug\projecth7.exe
+C:\Users\mostafa\Desktop\projecth7\projecth7\obj\x86\Debug\projecth7.pdb
+C:\Users\mostafa\Desktop\projecth7\projecth7\bin\Debug\projecth7.exe
+C:\Users\mostafa\Desktop\projecth7\projecth7\bin\Debug\projecth7.pdb
+C:\Users\mostafa\Desktop\projecth7\projecth7\obj\x86\Debug\projecth7.csprojResolveAssemblyReference.cache
+C:\Users\mostafa\Desktop\projecth7\projecth7\obj\x86\Debug\projecth7.Form1.resources
+C:\Users\mostafa\Desktop\projecth7\projecth7\obj\x86\Debug\projecth7.Properties.Resources.resources
+C:\Users\mostafa\Desktop\projecth7\projecth7\obj\x86\Debug\projecth7.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.exe
+C:\Users\hp\Desktop\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.pdb
+C:\Users\hp\Desktop\FINAL\projecth7\projecth7\bin\Debug\projecth7.exe
+C:\Users\hp\Desktop\FINAL\projecth7\projecth7\bin\Debug\projecth7.pdb
+C:\Users\hp\Desktop\FINAL\projecth7\projecth7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.Form1.resources
+C:\Users\hp\Desktop\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.Properties.Resources.resources
+C:\Users\hp\Desktop\FINAL\projecth7\projecth7\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hp\Desktop\FINAL\projecth7\projecth7\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\MYCONTENTS\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.exe
+C:\MYCONTENTS\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.pdb
+C:\MYCONTENTS\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.csprojResolveAssemblyReference.cache
+C:\MYCONTENTS\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.Form1.resources
+C:\MYCONTENTS\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.Properties.Resources.resources
+C:\MYCONTENTS\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.csproj.GenerateResource.Cache
+C:\MYCONTENTS\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\bin\Debug\projecth7.exe
+C:\MYCONTENTS\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\bin\Debug\projecth7.pdb
+D:\College\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.exe
+D:\College\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.pdb
+D:\College\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\bin\Debug\projecth7.exe
+D:\College\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\bin\Debug\projecth7.pdb
+D:\College\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.csprojResolveAssemblyReference.cache
+D:\College\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.Form1.resources
+D:\College\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.Properties.Resources.resources
+D:\College\3rdBio\2nd term\graphics\finale project\FINAL\FINAL\projecth7\projecth7\obj\x86\Debug\projecth7.csproj.GenerateResource.Cache
